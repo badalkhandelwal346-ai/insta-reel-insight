@@ -1,0 +1,6 @@
+{
+  "name": "Reels Insight AI",
+  "description": "Analyze Instagram Reels performance, identify optimal posting times, and master social data analysis with Python and Pandas.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
